@@ -1,4 +1,3 @@
-# market_movement_prediction.py
 # This script loads multiple financial datasets, merges them, performs EDA,
 # feature engineering, and trains classification models to predict daily movement.
 

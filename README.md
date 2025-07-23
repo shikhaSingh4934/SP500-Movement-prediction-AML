@@ -101,6 +101,6 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 Shikha Singh
 📧 singh.shikha692000@gmail.com
 📍 Syracuse, NY
-[LinkedIn](www.linkedin.com/in/shikha--singh)
+[LinkedIn](https://www.linkedin.com/in/shikha--singh/)
 
 
